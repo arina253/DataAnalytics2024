@@ -1,0 +1,6 @@
+for importing percentage data in students table
+=VLOOKUP(B:B,result.csv!$B:$E,2,0)
+
+
+for importing students data in results table
+=VLOOKUP(B:B,students.csv!$B:$D,2,0)
