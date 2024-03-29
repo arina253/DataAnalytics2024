@@ -1,3 +1,6 @@
+
+Two tables involved: students table and result table
+
 for importing percentage data in students table
 =VLOOKUP(B:B,result.csv!$B:$E,2,0)
 
